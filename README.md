@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on InkBlot & PlantDad<br>👯 I’m looking to collaborate on small flutter projects<br>🌱 I’m currently learning Flutter/Dart<br>💬 Ask me about my racing company Fatal Flaw<br>⚡ Fun fact: I have two cats name Kenta & Bento
+🔭 I’m currently working on InkBlot & PlantDad<br>👯 I’m looking to collaborate on small flutter projects<br>🌱 I’m currently learning Flutter/Dart<br>💬 Ask me about my racing company Fatal Flaw<br>⚡ Fun fact: I have three cats name Kenta, Bento, & Setsuna
 
 
 ## 🌐 Socials:
